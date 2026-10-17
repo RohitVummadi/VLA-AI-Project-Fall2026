@@ -1,0 +1,42 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*secret*
+*credential*
+
+# Model weights and checkpoints
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+*.gguf
+checkpoints/
+weights/
+
+# Datasets and corpora
+data/
+datasets/
+corpora/
+*.parquet
+*.arrow
+*.feather
+*.csv
+*.tsv
+
+# Generated model outputs and run artifacts
+outputs/
+model_outputs/
+runs/
+artifacts/
+*.jsonl
+
+# Local files
+.DS_Store
+__pycache__/
+.venv/
+venv/
