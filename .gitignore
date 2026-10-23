@@ -25,7 +25,6 @@ corpora/
 *.parquet
 *.arrow
 *.feather
-*.csv
 *.tsv
 
 # Generated model outputs and run artifacts
@@ -40,3 +39,5 @@ artifacts/
 __pycache__/
 .venv/
 venv/
+.tmp_validation/
+.pytest_cache/
