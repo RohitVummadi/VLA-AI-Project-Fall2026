@@ -1,0 +1,3 @@
+split,total_clips,stop_deceleration_count,stop_deceleration_percent,turn_count,turn_percent
+dev,300,60,20.0,45,15.0
+test,1000,200,20.0,150,15.0
