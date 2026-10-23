@@ -1,0 +1,2 @@
+# Upstream smoke-test clip; this is NOT the team's fixed 10-clip selection.
+030c760c-ae38-49aa-9ad8-f5650a545d26
